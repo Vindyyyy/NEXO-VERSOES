@@ -1,0 +1,47 @@
+REDE DE PETS (PILOTO EM FAMÍLIA) — PASSO A PASSO
+
+Só UMA pessoa faz a parte 1. A outra só faz a parte 3.
+
+PARTE 1 — Criar o ponto de encontro (uma vez só, uns 10 minutos)
+1. Entre em supabase.com e crie uma conta gratuita (pode entrar com o Google).
+2. Clique em "New project". Dê um nome (por exemplo "nexo-familia"), crie uma senha qualquer
+   para o banco (anote, mas o NEXO não vai pedir) e escolha a região "South America (São Paulo)".
+   Espere uns 2 minutos até o projeto ficar pronto.
+3. No menu da esquerda, abra "SQL Editor". Abra o arquivo supabase.sql (vem junto com o NEXO),
+   copie tudo, cole lá e clique em "Run". Deve aparecer "Success".
+4. No menu da esquerda, abra "Project Settings" > "API" (em algumas versões: "Data API" e "API Keys").
+   Copie duas coisas:
+   - o endereço do projeto (Project URL), parecido com https://abcdefgh.supabase.co
+   - a chave pública: "anon public" ou "publishable" (começa com eyJ... ou com sb_publishable_).
+   NUNCA use a chave "service_role" ou "secret".
+
+PARTE 2 — Criar a rede no NEXO (a mesma pessoa)
+1. Botão direito no pet > Família > Configurar a rede.
+2. Cole o endereço (termina em .supabase.co) e a chave, escreva seu nome e clique em "Criar a rede da família".
+3. Clique em "Copiar convite" e mande o texto para a outra pessoa (WhatsApp, e-mail...).
+   Quem tem esse convite entra na rede, então mande só para quem você quer.
+
+PARTE 3 — Entrar na rede (a outra pessoa)
+1. Botão direito no pet > Família > Configurar a rede.
+2. Cole o convite inteiro no campo "Convite", escreva seu nome e clique em "Entrar com o convite".
+
+ATUALIZOU O NEXO? (a partir da versão 0.9.15)
+Quem criou a rede abre o Supabase > Editor SQL, cola o supabase.sql novo inteiro e clica em Run de novo.
+Pode rodar quantas vezes quiser: só acrescenta o que falta, não apaga nada.
+
+COMO USAR
+- Mandar recado: Família > Mandar recado. Escolha para quem, escreva, e se quiser marque prazo ou urgente.
+  O recado aparece na hora para a outra pessoa, numa caixa que fica até ela responder:
+  Já fiz / Vou fazer / Agora não posso. Urgente: o pet dela ainda voa de foguete até o mouse.
+  Durante chamadas (câmera, microfone ou programa de conversa) a caixa espera e aparece quando a chamada acaba.
+- Quando a pessoa responde, o SEU pet te conta.
+- Agenda da família: Família > Agenda da família. Compromissos e tarefas com dia; o pet avisa 30 min antes.
+- Ao anotar algo (botão direito > Anotar compromisso ou tarefa), escolha "Só eu" ou "Família".
+- Lista da casa: Família > Lista da casa. Compras e tarefas da casa, com dono se quiser.
+  Quem marca, marca para todos, e o pet da outra pessoa avisa ("Vitor comprou: leite").
+
+PRIVACIDADE
+- O pet só manda para a rede o que você escreve de propósito: recados, respostas e itens da lista.
+- Ele nunca manda o que você faz no computador, o humor ou o jeito dele, nem suas tarefas pessoais.
+- A faixa gratuita do Supabase pausa projetos parados por muito tempo (cerca de uma semana sem uso).
+  Se a rede parar de responder depois de um tempo sem usar, entre no site e clique em "Restore project".

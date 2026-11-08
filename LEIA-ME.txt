@@ -1,0 +1,197 @@
+NEXO na tela - versão de teste 0.9.5
+
+COMO ABRIR
+1. Feche a versão antiga: botão direito no NEXO, "Fechar o NEXO".
+2. Clique com o botão direito em NEXO_Tela_v095.zip e escolha "Extrair tudo".
+3. Abra a pasta extraída e dê dois cliques em NEXO.exe.
+4. Se o Windows mostrar um aviso azul, clique em "Mais informações" e depois em "Executar assim mesmo".
+5. O menu deve mostrar "NEXO versão 0.9.5" no topo.
+
+CARINHO E BIRRA
+- Passe o mouse de um lado para o outro, ou de cima para baixo, em cima dele: carinho.
+- Se ele estiver dormindo, ele aproveita o carinho e volta a dormir.
+- O gesto precisa ir e voltar algumas vezes. Só passar o mouse por cima não conta.
+- Se ele acabou de pedir atenção, um clique conta como resposta carinhosa.
+- Cutucar demais ou mandar ficar quieto deixa ele de birra. Carinho resolve.
+
+FOME, SONO E HUMOR
+- Ele fica com fome aos poucos, leva cerca de 3 horas para encher. Dê petisco pelo botão esquerdo.
+- Com sono, ele boceja e fica pescando. Coloque para dormir pelo botão esquerdo.
+- Se você não colocar, ele dorme sozinho quando a energia ficar muito baixa.
+- Se já tiver comido, ele recusa o petisco e faz graça.
+- Arrastar para longe, para o canto ou acordar arrastando deixa ele mais irritado.
+
+FOGUETINHO
+- Se o mouse estiver no alto, ou se a fome ou o sono estiverem fortes, ele voa até o lado do cursor.
+- Ele espera cerca de 12 segundos e desce devagar se ninguém responder.
+- São no máximo 2 pedidos por hora, com 15 minutos de intervalo.
+- Ele não voa no modo quieto, em janela maximizada, em tela cheia nem em conversas.
+- Com fome ou sono, clique com o botão esquerdo nele para atender.
+
+VÍDEO E MÚSICA
+- Ligue "Reconhecer vídeo e música" em "O que ele pode ver e fazer".
+- Vídeo aberto na janela da frente: ele vai para o canto com pipoca.
+- Música: ele dança ou cantarola de vez em quando.
+- O título da janela é lido só para achar nomes como YouTube e Spotify. Não é salvo.
+- Em filme ou música na tela cheia ele fica com você e não dá recados. Os recados esperam você sair.
+- Em conversas, chamadas e outras telas cheias ele continua escondido.
+- Vídeos: Netflix, Prime Video, Disney+, Max, Globoplay, Apple TV, Paramount+, Crunchyroll, Twitch, VLC e outros.
+- Músicas: Spotify, Deezer, YouTube Music, Apple Music, Amazon Music, Tidal, SoundCloud e outros.
+- No YouTube ele decide pelo título: clipe e letra contam como música; filme, trailer e episódio, como vídeo.
+- "Como você está?" abre a ficha do jeito dele (veja "O JEITO DELE" abaixo).
+
+PERSONAGEM E NOME
+- Na primeira abertura aparecem as boas-vindas: escolha o companheiro, o nome, o Google e a cidade.
+- Depois, use "Personagem e nome" no botão direito. O programa reabre sozinho ao trocar.
+- Cada companheiro tem a própria memória, fome, sono e rotina.
+- Agenda, Google, cidade e permissões são suas e valem para todos.
+
+CLIQUE DUPLO
+- Dois cliques nele abrem o seu dia: clima, agenda de hoje e tarefas de hoje.
+- Um clique continua abrindo o menu do pet, com um instante de espera.
+- A cidade fica em "Minha cidade (clima)", no botão direito.
+- Sem cidade escolhida, nada vai para o serviço de clima.
+- Dados do clima: Open-Meteo.com (uso gratuito não comercial).
+
+POEIRA
+- Em "Esconder por 1 hora" ou Ctrl+Alt+N, ele vira poeira e o vento leva.
+- Em "Pode voltar para a tela", ou passada 1 hora, a poeira volta e ele se junta de novo.
+- Em chamadas ele some na hora, sem efeito.
+
+MENUS
+- Botão esquerdo: coisas do pet, como carinho, bolinha, cutucar, dormir e "Como você está?".
+- Botão direito: conversa, Google, esconder, permissões, painel, tamanho e fechar.
+- Se ele estiver escondido, use o ícone perto do relógio.
+
+AGENDA E TAREFAS
+- Menu "Falar com o NEXO". Exemplos:
+  segunda dentista às 14h, me lembre 2 dias antes
+  preciso comprar ração
+  o que temos para essa semana?
+  quais são minhas tarefas?
+  terminei a ração
+- Ele mostra o que entendeu. Só salva depois que você clicar em "Salvar".
+- Para ver e arrumar a agenda e as tarefas, use o Google Agenda e o Google Tarefas. O NEXO manda o que você disse para lá e traz o que está lá.
+- Os lembretes aparecem com o NEXO aberto. Se ele estava fechado, o aviso aparece quando você abrir.
+
+TAREFAS ABERTAS
+- Ele pergunta sobre uma tarefa de cada vez, com três botões: "Sim!", "Ainda não" e "Agora não consigo".
+- Sim: conclui a tarefa, também no Google, e ele comemora.
+- Ainda não: ele reclama ou zoa a tarefa e pergunta de novo mais tarde.
+- Agora não consigo: sem bronca. Ele sugere só um pedacinho e espera mais tempo.
+- Limites: 45 minutos entre perguntas, 6 por dia, das 7h às 23h. Se ninguém responder em 3 minutos, ele volta depois.
+- A insistência muda em "O que ele pode ver e fazer".
+
+CONVERSAS E CHAMADAS
+- Ele some da tela quando o microfone ou a câmera estão em uso e quando Zoom, Teams, Skype, Webex, Discord, Slack, WhatsApp, Telegram ou Signal estão na frente.
+- Ele não ouve nem vê nada: só confere se o aparelho está em uso.
+- Ele não reconhece WhatsApp Web nem outro chat aberto no navegador, a menos que o microfone ou a câmera estejam em uso.
+- Se precisar esconder na hora: Ctrl+Alt+N. Aperte de novo para ele voltar.
+
+ABRIR COM O WINDOWS
+- Ligue em "O que ele pode ver e fazer". Depois disso, não mova a pasta do NEXO. Se mover, abra o NEXO uma vez pela pasta nova.
+
+OUTROS MENUS
+- "Como ele está ficando": a ficha do jeito dele.
+- "Avançado": painel técnico da rede neural e estado detalhado. Não precisa usar no dia a dia.
+- "O que ele pode ver e fazer": liga e desliga cada permissão.
+- "Tela: ..." no painel mostra se ele percebeu tela cheia ou janela maximizada.
+
+COMO FECHAR
+Botão direito no NEXO ou no ícone perto do relógio, depois "Fechar o NEXO".
+
+O programa só usa internet se você conectar o Google. Ele nunca lê títulos, conteúdo de janelas, teclas digitadas nem arquivos.
+Tudo o que ele guarda fica em %APPDATA%\NEXO.
+O humor é um cálculo interno: ele não sente de verdade.
+Se ele fechar sozinho, mande o arquivo %APPDATA%\NEXO\erro.txt, se existir.
+
+O JEITO DELE (versão 0.9.8)
+O pet tem quatro traços que mudam com o que você faz com ele, devagar, ao longo dos dias:
+- Melancólico ↔ Alegre: carinho, brincar, petisco e tarefas feitas deixam mais alegre. Ser ignorado e dias sem atenção deixam mais pra baixo.
+- Independente ↔ Grudado: responder quando ele chama deixa mais grudado. Ignorar as chamadas deixa mais independente.
+- Calmo ↔ Agitado: bolinha e música deixam mais agitado. Pedir silêncio e madrugadas deixam mais calmo.
+- Esquentado ↔ Paciente: cutucar, arrastar e madrugadas encurtam o pavio. Carinho e atenção aumentam a paciência.
+O jeito muda o que ele faz e o que ele fala:
+- Grudado procura você mais vezes (até 3 por hora) e corre até você quando você volta depois de 10 minutos fora. Independente quase não pede e só cumprimenta de longe.
+- Alegre brinca e corre mais. Melancólico fica mais parado e fala mais baixo.
+- As frases mudam de tom com o jeito, e ele lembra de coisas da convivência ("essa semana a gente jogou bola 12 vezes").
+- Clicar 100 vezes não adianta: cada tipo de coisa só conta algumas vezes por dia.
+- Sem convivência, ele volta devagar para o jeito com que nasceu.
+Por isso o pet do seu computador e o de outra pessoa vão ficando diferentes.
+Tudo fica em %APPDATA%\NEXO (arquivo temperamento.txt de cada pet). "Apagar a memória" apaga também o jeito.
+
+PARA CRIAR UMA SKIN NOVA
+1. Imagens: as mesmas animações da KAPI, na pasta assets\universo\pets\<nome>\runtime.
+2. Jeito de nascença: uma linha em Temperamento.cs (Alegria, Apego, Agito, Paciência).
+3. Frases (opcional): um dicionário como o da KAPI em Personalidade.cs. Pode ter frases por tom, com a chave "topico@tom" (por exemplo "voltou@grudado"). O que faltar usa as frases gerais.
+O jeito, o aprendizado e a ficha funcionam sozinhos para qualquer skin.
+
+KITSUNE (versão 0.9.9)
+- Nova companheira: Kitsune, espírito de raposa. Escolha com o botão direito > "Personagem e nome".
+- Ela tem duas formas e é sempre a mesma: mesma memória, mesmo jeito, mesmas frases.
+  - Vira MENINA quando você está trabalhando no computador há 1 minuto.
+  - Volta a ser RAPOSA quando você fica 2 minutos à toa, quando brinca com ela ou quando ela dorme.
+  - Entre uma troca automática e outra passam pelo menos 3 minutos, para não ficar piscando.
+  - Botão esquerdo > "Transformar": troca na hora e segura a forma escolhida por 30 minutos.
+- Jeito de nascença: curiosa, serena e um pouco misteriosa. Depois, quem molda é você.
+- A raposa ainda não tem um rosto triste próprio: quando fica triste, usa a carinha emburrada. Se vier uma prancha com expressão triste, é só trocar.
+- Para outra skin com duas formas: uma linha em Formas.cs e as imagens da segunda forma em assets\universo\pets\<nome>_<forma>\runtime, mais as animações transforma_rm e transforma_mr.
+
+CORREÇÃO (versão 0.9.10)
+- Quando o pet voa de foguete até você, ele para ao chegar e espera ali. Antes ele se mexia junto com o mouse e não dava para alcançar.
+- Passar o mouse em cima de quem está chamando já conta como atender (no ar ou no chão). Clicar também conta.
+- Se ele está com fome ou sono, o clique abre o menu para você dar petisco ou mandar dormir.
+
+RESUMO DO DIA (versão 0.9.11)
+- Clique duplo no pet: o resumo agora mostra as tarefas de hoje e também as sem data, cada uma com uma caixinha.
+- Marcou a caixinha = tarefa feita. O pet comemora, e se o Google estiver conectado a tarefa também é marcada lá.
+
+REDE DA FAMÍLIA — PILOTO (versão 0.9.12)
+- Botão direito > Família: Mandar recado, Lista da casa e Configurar a rede.
+- Para começar, siga o GUIA-REDE.txt (uma pessoa cria a rede no Supabase, a outra entra com o convite).
+- O pet entrega os recados nas pausas, com Feito / Agora não / Preciso de ajuda, e conta para quem mandou quando você responde.
+- A lista da casa é a mesma para todos da rede. Quem marca, marca para todos.
+- O pet só manda para a rede o que você escreve de propósito.
+
+AJUSTES (versão 0.9.13)
+- Os menus do pet (botão direito e esquerdo) fecham ao clicar fora ou apertar Esc.
+- Recado URGENTE aparece na hora: mesmo digitando, em tela cheia, no modo quieto ou com o pet escondido.
+  Só espera se você estiver numa chamada (câmera, microfone ou programa de conversa), para ninguém ver.
+  Se ninguém responder, volta em 10 minutos. A rede é consultada a cada 15 segundos.
+- Endereço do Supabase colado com /rest/v1/ no fim é corrigido sozinho.
+- Kitsune mais fluida: cada quadro alinhado pela base do corpo (não escorrega mais de lado) e a raposa parada agora respira.
+
+RECADOS (versão 0.9.14)
+- Todo recado aparece assim que chega, numa caixa que fica na tela até a pessoa responder:
+  Já fiz / Vou fazer / Agora não posso. Quem mandou fica sabendo da resposta pelo próprio pet.
+- "Vou fazer": mais tarde o pet pergunta de novo se já fez.
+- Urgente: além da caixa, o pet voa de foguete até o mouse para chamar atenção.
+- Durante chamadas (câmera, microfone ou programa de conversa) a caixa espera escondida e volta quando a chamada acaba.
+
+SÓ EU / FAMÍLIA E MENUS NOVOS (versão 0.9.15)
+IMPORTANTE: quem criou a rede precisa rodar o supabase.sql DE NOVO no Editor SQL do Supabase (uma vez só).
+Ele acrescenta ao banco os compromissos e tarefas da família com dia e hora. Não apaga nada.
+
+- Tudo nasce "só meu". Ao anotar (botão direito > Anotar compromisso ou tarefa), escolha "Só eu" ou "Família".
+  Escrever "família" no texto já marca Família.
+- "Só eu" fica no seu computador (e no seu Google, se conectado). O resto da família não vê.
+- "Família" vai para a rede: os pets de todos lembram, e quem marcar como feito, marca para todos.
+- Clique duplo no pet (Meu dia): duas partes, MEU DIA e FAMÍLIA. Botão direito num item passa entre "só eu" e "família".
+- Compromissos da família com hora: o pet avisa 30 minutos antes.
+- Família > Agenda da família: compromissos e tarefas com dia, para todos.
+
+MENUS
+- Botão esquerdo = cuidar do pet: carinho, petisco, bolinha, cutucar, dormir/acordar, transformar, como você está.
+- Clique duplo = Meu dia.
+- Botão direito = o que ele faz por você:
+  Meu dia · Anotar compromisso ou tarefa · Família · Sossego (quieto, esconder) · Personalizar · Configurações · Fechar.
+
+ATUALIZAÇÃO AUTOMÁTICA (versão 0.9.16)
+- A partir desta versão, o NEXO se atualiza sozinho. Esta é a última vez que vocês instalam na mão.
+- Ao abrir e a cada 6 horas, ele olha o repositório público github.com/Vindyyyy/NEXO-VERSOES.
+- Achando versão nova, ele baixa, confere se o arquivo chegou inteiro (SHA-256) e pergunta:
+  Agora / Ao fechar / Depois.
+- A memória, o jeito e a rede continuam iguais: ficam em %APPDATA%\NEXO, fora do programa.
+- Para procurar na hora: botão direito > Configurações > Procurar atualização.
+- Deixe o NEXO.exe numa pasta onde você pode escrever (Documentos, Área de Trabalho, Downloads).
+  Em "Arquivos de Programas" o Windows não deixa ele se trocar.
