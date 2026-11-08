@@ -1,6 +1,6 @@
 {
-  "versao": "0.9.16",
-  "url": "https://raw.githubusercontent.com/Vindyyyy/NEXO-VERSOES/main/versoes/0.9.16/NEXO.exe",
-  "sha256": "03b06b63a5ec552a988d819f481abe7075d3b67f25953058b70c2803cfea88c9",
-  "notas": "Agora eu me atualizo sozinho! Nunca mais precisa baixar e mandar pelo WhatsApp."
+  "versao": "0.9.17",
+  "url": "https://raw.githubusercontent.com/Vindyyyy/NEXO-VERSOES/main/versoes/0.9.17/NEXO.exe",
+  "sha256": "f33b834267ce3aa4ac4d5b17ae4563ddf3135948712494649170b94f1f9ebb3a",
+  "notas": "Novidades: várias redes (família e equipes), tarefas que dependem de outras e a visita do pet de quem mandou o recado. Quem criou a rede: rode o supabase.sql de novo."
 }

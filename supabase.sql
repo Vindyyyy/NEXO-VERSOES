@@ -42,6 +42,9 @@ alter table public.itens add column if not exists tem_hora boolean not null defa
 alter table public.itens drop constraint if exists itens_tipo_check;
 alter table public.itens add constraint itens_tipo_check check (tipo in ('compra','tarefa','evento'));
 
+-- Versão 0.9.17: tarefas que dependem de outras (demandas interligadas).
+alter table public.itens add column if not exists depende_de uuid;
+
 create index if not exists recados_grupo on public.recados (grupo, para);
 create index if not exists itens_grupo on public.itens (grupo);
 create index if not exists membros_grupo on public.membros (grupo);

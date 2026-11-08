@@ -195,3 +195,20 @@ ATUALIZAÇÃO AUTOMÁTICA (versão 0.9.16)
 - Para procurar na hora: botão direito > Configurações > Procurar atualização.
 - Deixe o NEXO.exe numa pasta onde você pode escrever (Documentos, Área de Trabalho, Downloads).
   Em "Arquivos de Programas" o Windows não deixa ele se trocar.
+
+REDES, EQUIPES E TAREFAS LIGADAS (versão 0.9.17)
+IMPORTANTE: quem criou a rede roda o supabase.sql de novo no Editor SQL do Supabase (uma vez; não apaga nada).
+
+- O menu "Família" virou "Redes". Você pode estar em várias: a da família e equipes de trabalho.
+  Botão direito > Redes > (nome da rede) > Mandar recado / Agenda / Lista (ou Tarefas da equipe) / Rede e convite.
+  Para criar ou entrar em outra: Redes > Entrar ou criar outra rede (escolha Família ou Equipe).
+- Quem já estava na rede da família continua nela, sem fazer nada.
+- TAREFAS QUE DEPENDEM DE OUTRAS: na Agenda da rede, escolha Tarefa e "Depois de: ...".
+  • A tarefa aparece como "esperando Fulano" e só dá para marcar quando a outra terminar.
+  • Quando a outra termina, o seu pet avisa: "Fulano terminou X. Agora você já pode: Y".
+  • Se o prazo está chegando, o pet de quem está segurando lembra, com contexto, no máximo 1 vez por dia (das 8h às 21h).
+- VISITA: quando chega um recado, o pet de quem mandou entra andando na sua tela, espera a resposta
+  e vai embora (comemorando, se for "Já fiz"). No modo quieto só visita se for urgente.
+- CONVITE: "Rede e convite" tem "Copiar convite" (já com as instruções) e "Convidar por e-mail".
+- PRIVACIDADE: Redes > O que a rede vê. As regras também estão no arquivo PRIVACIDADE.txt.
+  O programa barra o envio de qualquer coisa fora da lista do que a rede pode ver.

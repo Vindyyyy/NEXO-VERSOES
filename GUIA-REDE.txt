@@ -16,13 +16,13 @@ PARTE 1 — Criar o ponto de encontro (uma vez só, uns 10 minutos)
    NUNCA use a chave "service_role" ou "secret".
 
 PARTE 2 — Criar a rede no NEXO (a mesma pessoa)
-1. Botão direito no pet > Família > Configurar a rede.
-2. Cole o endereço (termina em .supabase.co) e a chave, escreva seu nome e clique em "Criar a rede da família".
-3. Clique em "Copiar convite" e mande o texto para a outra pessoa (WhatsApp, e-mail...).
+1. Botão direito no pet > Redes > Criar ou entrar numa rede.
+2. Cole o endereço (termina em .supabase.co) e a chave, escreva seu nome e escolha Família ou Equipe e clique em "Criar a rede".
+3. Depois abra Redes > (rede) > Rede e convite e clique em "Copiar convite" ou "Convidar por e-mail" e mande o texto para a outra pessoa (WhatsApp, e-mail...).
    Quem tem esse convite entra na rede, então mande só para quem você quer.
 
 PARTE 3 — Entrar na rede (a outra pessoa)
-1. Botão direito no pet > Família > Configurar a rede.
+1. Botão direito no pet > Redes > Criar ou entrar numa rede.
 2. Cole o convite inteiro no campo "Convite", escreva seu nome e clique em "Entrar com o convite".
 
 ATUALIZOU O NEXO? (a partir da versão 0.9.15)
@@ -30,14 +30,14 @@ Quem criou a rede abre o Supabase > Editor SQL, cola o supabase.sql novo inteiro
 Pode rodar quantas vezes quiser: só acrescenta o que falta, não apaga nada.
 
 COMO USAR
-- Mandar recado: Família > Mandar recado. Escolha para quem, escreva, e se quiser marque prazo ou urgente.
+- Mandar recado: Redes > (rede) > Mandar recado. Escolha para quem, escreva, e se quiser marque prazo ou urgente.
   O recado aparece na hora para a outra pessoa, numa caixa que fica até ela responder:
   Já fiz / Vou fazer / Agora não posso. Urgente: o pet dela ainda voa de foguete até o mouse.
   Durante chamadas (câmera, microfone ou programa de conversa) a caixa espera e aparece quando a chamada acaba.
 - Quando a pessoa responde, o SEU pet te conta.
-- Agenda da família: Família > Agenda da família. Compromissos e tarefas com dia; o pet avisa 30 min antes.
+- Agenda da família: Redes > (rede) > Agenda. Compromissos e tarefas com dia; o pet avisa 30 min antes.
 - Ao anotar algo (botão direito > Anotar compromisso ou tarefa), escolha "Só eu" ou "Família".
-- Lista da casa: Família > Lista da casa. Compras e tarefas da casa, com dono se quiser.
+- Lista da casa: Redes > (rede) > Lista da casa. Compras e tarefas da casa, com dono se quiser.
   Quem marca, marca para todos, e o pet da outra pessoa avisa ("Vitor comprou: leite").
 
 PRIVACIDADE
@@ -45,3 +45,8 @@ PRIVACIDADE
 - Ele nunca manda o que você faz no computador, o humor ou o jeito dele, nem suas tarefas pessoais.
 - A faixa gratuita do Supabase pausa projetos parados por muito tempo (cerca de uma semana sem uso).
   Se a rede parar de responder depois de um tempo sem usar, entre no site e clique em "Restore project".
+
+EQUIPES DE TRABALHO
+- Funciona igual à família, mas a lista vira "Tarefas da equipe" (sem compras).
+- Pode usar o mesmo projeto Supabase: cada rede tem o seu código secreto e uma não vê a outra.
+- Tarefas ligadas: na Agenda da rede, crie a tarefa com "Depois de: ..." e os pets cuidam do resto.
