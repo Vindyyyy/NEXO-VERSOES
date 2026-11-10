@@ -6,3 +6,7 @@ Daqui o NEXO baixa as próprias atualizações. Não precisa fazer nada: ele pro
 - `versao.json`: qual é a versão atual (o NEXO lê este arquivo).
 - `versoes/`: todas as versões publicadas, para voltar a uma anterior se precisar.
 - `LEIA-ME.txt`: o que tem em cada versão.
+
+## Em teste (ainda não chega pela atualização automática)
+- **0.9.18** (sinapses, IA opcional): [`versoes/0.9.18/NEXO.exe`](versoes/0.9.18/NEXO.exe). Vira a versão oficial depois que a Indy aprovar.
+- **Android 0.1.0**: [`android/NEXO-android-0.1.0.apk`](android/NEXO-android-0.1.0.apk). Abra no celular e permita instalar.
