@@ -9,4 +9,4 @@ Daqui o NEXO baixa as próprias atualizações. Não precisa fazer nada: ele pro
 
 ## Em teste (ainda não chega pela atualização automática)
 - **0.9.18** (sinapses, IA opcional): [`versoes/0.9.18/NEXO.exe`](versoes/0.9.18/NEXO.exe). Vira a versão oficial depois que a Indy aprovar.
-- **Android 0.2.1 (com o Bip)**: [`android/NEXO-android-0.2.1.apk`](android/NEXO-android-0.2.1.apk). Abra no celular e permita instalar.
+- **Android 0.3.0 (com o Bip)**: [`android/NEXO-android-0.3.0.apk`](android/NEXO-android-0.3.0.apk). Abra no celular e permita instalar.
